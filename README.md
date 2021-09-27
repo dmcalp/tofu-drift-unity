@@ -1,6 +1,6 @@
-# tofu-drift-unity
+# 豆腐 Drift (Tofu Drift)
 
-A simple drifting game made in Unity. 
-I was initially following an Asteroids tutorial until I noticed the feeling of the 'Ship' could easily be repurposed into a top-down driving game.
+A first foray into game development; a simple drifting game made in Unity with C#. <br>
+Whilst initially following an Asteroids tutorial, I noticed the physics of the 'ship' could easily be repurposed into a top-down driving game and so I attempted to realise this idea.
 
-![Tofu Drift](https://imgur.com/xc41PYF.gif)
+[![Tofu Drift](https://img.youtube.com/vi/ZVQZBpFtkCQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZVQZBpFtkCQ)
